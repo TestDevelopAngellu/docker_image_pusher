@@ -1,3 +1,8 @@
 nginx
 raesene/bwapp
 aallam/tomcat-mysql
+cuer/upload-labs
+vulfocus/vulfocus
+bkimminich/juice-shop
+cytopia/dvwa
+vulfocus/xss-labs

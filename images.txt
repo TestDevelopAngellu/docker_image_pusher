@@ -6,3 +6,4 @@ vulfocus/vulfocus
 bkimminich/juice-shop
 cytopia/dvwa
 vulfocus/xss-labs
+brimstone/kali

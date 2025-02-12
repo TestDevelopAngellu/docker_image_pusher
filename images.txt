@@ -11,5 +11,14 @@ webgoat/webgoat-8.0
 acgpiano/sqli-labs
 ubuntu
 mysql
-redis
+bitnami/redis
 mongodb/mongodb-community-server
+grafana/grafana
+influxdb
+bitnami/prometheus
+tomcat
+bitnami/postgresql
+bitnami/redis-exporter
+bitnami/kafka
+bitnami/mysql
+bitnami/rabbitmq

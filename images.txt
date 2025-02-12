@@ -10,3 +10,6 @@ brimstone/kali
 webgoat/webgoat-8.0
 acgpiano/sqli-labs
 ubuntu
+mysql
+redis
+mongodb/mongodb-community-server
